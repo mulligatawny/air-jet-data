@@ -15,4 +15,6 @@ File manifest:
 
 Every line in the file has 512 data points, these are the radial points from 0.265 to 0 (the centerline). The points are equispaced.
 
-There are 100 lines in each file, these are the axial points from 0.415 (the jet mouth) to 1.415 (the outlet). The points are equispaced.
+There are 101 lines in each file, these are the axial points from 0.415 (the jet mouth) to 1.415 (the outlet). The points are equispaced.
+
+Each field (U_avg for ex) is a 101 x 512 array.
