@@ -1,4 +1,4 @@
-Azimuthally averaged data from the air jet LES.
+Azimuthally averaged data from the air jet LES. *Please see the pdf in the top level of the repository for a schematic of what the data represents in the domain*.
 
 File manifest:
 
